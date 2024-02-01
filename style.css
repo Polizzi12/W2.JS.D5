@@ -1,1 +1,118 @@
 /* Your styles here */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+main {
+  background-color: #e3e6e6;
+  padding: 30px;
+}
+.text-center {
+  text-align: center;
+  width: 100%;
+}
+
+.fascia {
+  background-color: #131921;
+  color: #eaeded;
+  padding-left: 15px;
+  height: 50px;
+  border:0;
+  padding-bottom:15px;
+}
+
+.bg-dark {
+  color: #eaeded;
+  background-color: #232f3e;
+  padding-left: 15px;
+  height: 20px;
+  padding-top: 5px;
+}
+.spazio {
+  padding-right: 10px;
+}
+.bg-yellow {
+  color: #eaeded;
+  background-color: #f56600;
+  padding: 10px;
+  padding-right: 1px;
+  margin-bottom: 20px;
+}
+.blubanner {
+  background-color: #116c63;
+  color: #eaeded;
+  box-sizing: border-box;
+  background-image: url("bg-image.png");
+  font-size: 30px;
+  margin-top: 30px;
+  padding-top: 70px;
+  padding-bottom: 15px;
+}
+h4 {
+  padding: 30px;
+  font-size: 20px;
+}
+.juj {
+  background-color: white;
+  margin-top: 25px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+.quattro {
+  display: inline-block;
+  max-width: 22%;
+  height: 22rem;
+  margin-inline: auto;
+  padding: 10px;
+  padding-left: 25px;
+  border-radius: 40px;
+  object-fit: cover;
+  box-shadow: 5px, 5px, 5px, 5px;
+}
+.scrit {
+  display: inline-block;
+  padding-right: 1rem;
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+}
+.craion {
+  color:#067488;
+  padding-left: 10px;
+  font-size: 15px;
+}
+
+.find {
+  padding-top: 15px;
+  padding-left:30px;
+}
+
+.vr {
+  margin-top: 25px;
+}
+.mara {
+  text-align: center;
+  font-size: 20px;
+}
+
+.last {
+  text-align: center;
+  padding-top:15px;
+  color:#eaeded; 
+  text-decoration: underline;
+}
+
+.end {
+  height: 100px;
+  background-color: #131921;
+  align-items: center;
+  padding-left:630px;
+  padding-top:60px;
+  padding-bottom:30px;
+  
+}
+
+.sas {
+  background-color: #232f3e;
+  height: 40px;
+  color: #eaeded;
+}
